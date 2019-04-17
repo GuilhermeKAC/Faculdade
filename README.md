@@ -1,1 +1,1 @@
-# Material de estudo do primeiro Semestre no meu curso de ADS.
+# Material de estudo do meu curso de ADS.
